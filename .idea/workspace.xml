@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a81356cb-86c1-4cff-84bd-c05aa47d2182" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/AwesomeProject/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/AwesomeProject/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AwesomeProject/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/AwesomeProject/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChooseToDo/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/ChooseToDo/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChooseToDo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ChooseToDo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goodog/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Goodog/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goodog/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/Goodog/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goodog/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Goodog/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goodog/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Goodog/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/screens/MessageScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/screens/MessageScreen.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1jhFYzEsTlvMO9Y5A0FH6PdpYEr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a81356cb-86c1-4cff-84bd-c05aa47d2182" name="Default Changelist" comment="" />
+      <created>1604248467559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604248467559</updated>
+    </task>
+    <servers />
+  </component>
+</project>
